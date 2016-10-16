@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <data>
+    <product id="1">
+      <name>2-портовый KVM свич, переключатель PS/2</name>
+      <price>
+                                    200.00грн.                                                    </price>
+      <image>http://freedelivery.com.ua/image/cache/catalog/product/2________________563b4c56e3897-266x200.jpg</image>
+    </product>
+    <product id="2">
+      <name>2-портовый KVM свич, переключатель USB</name>
+      <price>
+                                    240.00грн.                                                    </price>
+      <image>http://freedelivery.com.ua/image/cache/catalog/product/2________________539dd405ed7bf-266x200.jpg</image>
+    </product>
+    <product id="3">
+      <name>4-портовый KVM свич, переключатель PS/2</name>
+      <price>
+                                    330.00грн.                                                    </price>
+      <image>http://freedelivery.com.ua/image/cache/catalog/product/4________________563b6e8fe4f9a-266x200.jpg</image>
+    </product>
+    <product id="4">
+      <name>4-портовый KVM свич, переключатель USB</name>
+      <price>
+                                    420.00грн.                                                    </price>
+      <image>http://freedelivery.com.ua/image/cache/catalog/product/4________________5137d023abbb1-266x200.jpg</image>
+    </product>
+    <product id="5">
+      <name>4-портовый USB 1.1 хаб</name>
+      <price>
+                                    60.00грн.                                                    </price>
+      <image>http://freedelivery.com.ua/image/cache/catalog/product/4________________4f5aa73dcb4db-266x200.jpg</image>
+    </product>
+    <product id="6">
+      <name>4-портовый USB 3.0 хаб, до 5 Гбит</name>
+      <price>
+                                    355.00грн.                                                    </price>
+      <image>http://freedelivery.com.ua/image/cache/catalog/product/4________________5490b7856a55d-266x200.jpg</image>
+    </product>
+    <product id="7">
+      <name>4-портовый USB хаб Лего кубики</name>
+      <price>
+                                    70.00грн.                                                    </price>
+      <image>http://freedelivery.com.ua/image/cache/catalog/product/4________________510bfb96bafc3-266x200.jpg</image>
+    </product>
+    <product id="8">
+      <name>4-портовый USB хаб сердце сердечко, голубое</name>
+      <price>
+                                    55.00грн.                                                    </price>
+      <image>http://freedelivery.com.ua/image/cache/catalog/product/4________________51377a34d5b0d-266x200.jpg</image>
+    </product>
+    <product id="9">
+      <name>4-портовый USB хаб сердце сердечко, красное</name>
+      <price>
+                                    55.00грн.                                                    </price>
+      <image>http://freedelivery.com.ua/image/cache/catalog/product/4________________510bfd0ccad71-266x200.jpg</image>
+    </product>
+    <product id="10">
+      <name>BNC, S-Video - VGA монитор, видео конвертер</name>
+      <price>
+                                    640.00грн.                                                    </price>
+      <image>http://freedelivery.com.ua/image/cache/catalog/product/BNC__S_Video___V_51d5e70a1906c-266x200.jpg</image>
+    </product>
+    <product id="11">
+      <name>HDMI - VGA адаптер, конвертер видео + аудио, 1080P</name>
+      <price>
+                                    210.00грн.                                                    </price>
+      <image>http://freedelivery.com.ua/image/cache/catalog/product/HDMI___VGA_______5531371eb6ac2-266x200.jpg</image>
+    </product>
+    <product id="12">
+      <name>SDI-HDMI конвертер видео, аудио, SDI-HD, SDI-3G</name>
+      <price>
+                                    770.00грн.                                                    </price>
+      <image>http://freedelivery.com.ua/image/cache/catalog/product/113755/sdi-hdmi-konverter-vуdeo-audуo-sdi-hd-sdi-3g-sm-266x200.jpg</image>
+    </product>
+    <product id="13">
+      <name>USB Bluetooth адаптер, блутуз</name>
+      <price>
+                                    65.00грн.                                                    </price>
+      <image>http://freedelivery.com.ua/image/cache/catalog/product/USB_Bluetooth____4c2f547d5eece-266x200.jpg</image>
+    </product>
+    <product id="14">
+      <name>USB зарядное AA AAA аккумуляторов</name>
+      <price>
+                                    90.00грн.                                                    </price>
+      <image>http://freedelivery.com.ua/image/cache/catalog/product/USB______________4f5aa787e434a-266x200.jpg</image>
+    </product>
+    <product id="15">
+      <name>USB ионизатор воздуха</name>
+      <price>
+                                    110.00грн.                                                    </price>
+      <image>http://freedelivery.com.ua/image/cache/catalog/product/USB______________4c2f56c33c04f-266x200.jpg</image>
+    </product>
+    <product id="16">
+      <name>USB лампа подсветка светодиод 10 LED</name>
+      <price>
+                                    65.00грн.                                                    </price>
+      <image>http://freedelivery.com.ua/image/cache/catalog/product/USB______________54483c58e55a0-266x200.jpg</image>
+    </product>
+    <product id="17">
+      <name>USB лампа подсветка светодиод 13 LED, яркая, цвета</name>
+      <price>
+                                    65.00грн.                                                    </price>
+      <image>http://freedelivery.com.ua/image/cache/catalog/product/USB______________544838e4eada7-266x200.jpg</image>
+    </product>
+    <product id="18">
+      <name>USB лампа подсветка светодиод 3 LED</name>
+      <price>
+                                    50.00грн.                                                    </price>
+      <image>http://freedelivery.com.ua/image/cache/catalog/product/USB______________50f6fb3f1648f-266x200.jpg</image>
+    </product>
+    <product id="19">
+      <name>USB микро LED светильник, фонарик, фонарь, 0.2Вт</name>
+      <price>
+                                    35.00грн.                                                    </price>
+      <image>http://freedelivery.com.ua/image/cache/catalog/product/USB____________L_555892e31d060-266x200.jpg</image>
+    </product>
+    <product id="20">
+      <name>USB мини светильник, плавное сенсорное управление</name>
+      <price>
+                                    60.00грн.                                                    </price>
+      <image>http://freedelivery.com.ua/image/cache/catalog/product/USB______________55645c18de947-266x200.jpg</image>
+    </product>
+  </data>
+</root>

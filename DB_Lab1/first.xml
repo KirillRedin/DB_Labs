@@ -1,0 +1,778 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <data>
+    <page url="http://www.doroga.ua">
+      <photo>http://www.doroga.ua/Images/logo.png</photo>
+      <photo>http://www.doroga.ua/Images/Temp/SearchButton.jpg</photo>
+      <photo>http://www.doroga.ua/Images/ColoredLine.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1400&amp;FileName=01.jpg</photo>
+      <photo>http://www.doroga.ua/Images/IconMoveLeft.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconMoveRight.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ReportImageReportID=1814&amp;FileName=IMG_6615.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ReportImageReportID=216&amp;FileName=dc98b47e54533950af100c167446.jpeg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=282</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=375</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=2410</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=4057</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=384&amp;Filename=pikt_dm_D.jpg</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=386&amp;Filename=RB-Doroga.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/BannerObjectHandler.ashx?BannerID=742&amp;ContentType=image/gif</photo>
+      <photo>http://c.bigmir.net/?v16793771&amp;s16793771&amp;t3</photo>
+      <photo>http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif</photo>
+      <photo>http://www.doroga.ua/Images/Loading.gif</photo>
+      <photo>http://counter.rambler.ru/top100.cnt?1970450</photo>
+      <text>Укравтодор призывает водителей "переобуть" авто</text>
+      <text>Дата реального запуска видеофиксации на дорогах пока неизвестна</text>
+      <text>Украинский безвиз не вынесли на утверждение Европарламента в октябре</text>
+      <text>Суд вернул Музей леса и сплава нацпарку "Синевир"</text>
+      <text>Киев вошел в десятку самых доступных городов Европы для туристов</text>
+      <text>Украина хочет строить мост через Дунай в Румынию</text>
+      <text>Мои 10 фильмов жизни</text>
+      <text>Посоветуйте какой телефон купить школьнику?</text>
+      <text>Обсуждение сайта</text>
+      <text>TeeJay	и Baraban  с Днем Рождения.</text>
+      <text>На отдых  по западной Украине</text>
+      <text>Все новости</text>
+      <text>Задай свой вопрос на форуме</text>
+    </page>
+    <page url="http://www.doroga.ua">
+      <photo>http://www.doroga.ua/Images/logo.png</photo>
+      <photo>http://www.doroga.ua/Images/Temp/SearchButton.jpg</photo>
+      <photo>http://www.doroga.ua/Images/ColoredLine.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1400&amp;FileName=01.jpg</photo>
+      <photo>http://www.doroga.ua/Images/IconMoveLeft.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconMoveRight.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ReportImageReportID=1814&amp;FileName=IMG_6615.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ReportImageReportID=216&amp;FileName=dc98b47e54533950af100c167446.jpeg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=282</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=375</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=2410</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=4057</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=384&amp;Filename=pikt_dm_D.jpg</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=386&amp;Filename=RB-Doroga.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/BannerObjectHandler.ashx?BannerID=742&amp;ContentType=image/gif</photo>
+      <photo>http://c.bigmir.net/?v16793771&amp;s16793771&amp;t3</photo>
+      <photo>http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif</photo>
+      <photo>http://www.doroga.ua/Images/Loading.gif</photo>
+      <photo>http://counter.rambler.ru/top100.cnt?1970450</photo>
+      <text>Укравтодор призывает водителей "переобуть" авто</text>
+      <text>Дата реального запуска видеофиксации на дорогах пока неизвестна</text>
+      <text>Украинский безвиз не вынесли на утверждение Европарламента в октябре</text>
+      <text>Суд вернул Музей леса и сплава нацпарку "Синевир"</text>
+      <text>Киев вошел в десятку самых доступных городов Европы для туристов</text>
+      <text>Украина хочет строить мост через Дунай в Румынию</text>
+      <text>Мои 10 фильмов жизни</text>
+      <text>Посоветуйте какой телефон купить школьнику?</text>
+      <text>Обсуждение сайта</text>
+      <text>TeeJay	и Baraban  с Днем Рождения.</text>
+      <text>На отдых  по западной Украине</text>
+      <text>Все новости</text>
+      <text>Задай свой вопрос на форуме</text>
+    </page>
+    <page url="http://www.doroga.ua/Pages/Events.aspx">
+      <photo>http://www.doroga.ua/Images/logo.png</photo>
+      <photo>http://www.doroga.ua/Images/Temp/SearchButton.jpg</photo>
+      <photo>http://www.doroga.ua/Images/ColoredLine.gif</photo>
+      <photo>http://www.doroga.ua/Images/TitleLogo.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=386&amp;Filename=RB-Doroga.jpg</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=384&amp;Filename=pikt_dm_D.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/BannerObjectHandler.ashx?BannerID=742&amp;ContentType=image/gif</photo>
+      <photo>http://c.bigmir.net/?v16793771&amp;s16793771&amp;t3</photo>
+      <photo>http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif</photo>
+      <photo>http://www.doroga.ua/Images/Loading.gif</photo>
+      <photo>http://counter.rambler.ru/top100.cnt?1970450</photo>
+    </page>
+    <page url="http://www.doroga.ua/Pages/Articles.aspx">
+      <photo>http://www.doroga.ua/Images/logo.png</photo>
+      <photo>http://www.doroga.ua/Images/Temp/SearchButton.jpg</photo>
+      <photo>http://www.doroga.ua/Images/ColoredLine.gif</photo>
+      <photo>http://www.doroga.ua/Images/TitleLogo.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1400&amp;FileName=01.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1398&amp;FileName=P1350182.JPG</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1396&amp;FileName=borzhava_2.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1394&amp;FileName=01.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1393&amp;FileName=17foto.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1395&amp;FileName=_reni_650x410.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1392&amp;FileName=01.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1391&amp;FileName=001.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1390&amp;FileName=01.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1389&amp;FileName=68644684c377716923a42f42009287c8.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=384&amp;Filename=pikt_dm_D.jpg</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=386&amp;Filename=RB-Doroga.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/BannerObjectHandler.ashx?BannerID=742&amp;ContentType=image/gif</photo>
+      <photo>http://c.bigmir.net/?v16793771&amp;s16793771&amp;t3</photo>
+      <photo>http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif</photo>
+      <photo>http://www.doroga.ua/Images/Loading.gif</photo>
+      <photo>http://counter.rambler.ru/top100.cnt?1970450</photo>
+    </page>
+    <page url="http://www.doroga.ua/Pages/News.aspx">
+      <photo>http://www.doroga.ua/Images/logo.png</photo>
+      <photo>http://www.doroga.ua/Images/Temp/SearchButton.jpg</photo>
+      <photo>http://www.doroga.ua/Images/ColoredLine.gif</photo>
+      <photo>http://www.doroga.ua/Images/TitleLogo.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=384&amp;Filename=pikt_dm_D.jpg</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=386&amp;Filename=RB-Doroga.jpg</photo>
+      <photo>http://c.bigmir.net/?v16793771&amp;s16793771&amp;t3</photo>
+      <photo>http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif</photo>
+      <photo>http://www.doroga.ua/Images/Loading.gif</photo>
+      <photo>http://counter.rambler.ru/top100.cnt?1970450</photo>
+    </page>
+    <page url="http://www.doroga.ua/Pages/ForeignCountries.aspx">
+      <photo>http://www.doroga.ua/Images/logo.png</photo>
+      <photo>http://www.doroga.ua/Images/Temp/SearchButton.jpg</photo>
+      <photo>http://www.doroga.ua/Images/ColoredLine.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1400&amp;FileName=01.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ReportImageReportID=1814&amp;FileName=IMG_6615.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ReportImageReportID=1825&amp;FileName=nur1.JPG</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ReportImageReportID=1826&amp;FileName=DSC07663а.JPG</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ReportImageReportID=1812&amp;FileName=IMG_7278.JPG</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1356&amp;FileName=6bb5fc0-holodniy-yar300.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=384&amp;Filename=pikt_dm_D.jpg</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=386&amp;Filename=RB-Doroga.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/BannerObjectHandler.ashx?BannerID=742&amp;ContentType=image/gif</photo>
+      <photo>http://c.bigmir.net/?v16793771&amp;s16793771&amp;t3</photo>
+      <photo>http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif</photo>
+      <photo>http://www.doroga.ua/Images/Loading.gif</photo>
+      <photo>http://counter.rambler.ru/top100.cnt?1970450</photo>
+      <text>Беларусь</text>
+      <text>Венгрия</text>
+      <text>Польша</text>
+      <text>Россия</text>
+      <text>Словакия</text>
+      <text>Турция</text>
+      <text>Хорватия</text>
+      <text>Максимально  бюджетный мега-тур по Европе</text>
+      <text>Фонтаны, кирхи и… зайцы старого Нюрнберга (III)</text>
+      <text>В Трансильванию к Дракуле и не только</text>
+      <text>От Киева до Северного моря, далее в Альпы и обратно в Киев</text>
+      <text>Украинский безвиз не вынесли на утверждение Европарламента в октябре</text>
+      <text>В Турции на 70% увеличилось число украинских туристов</text>
+      <text>Под Великой стеной построят глубочайшую ж/д станцию</text>
+      <text>Комитет Европарламента проголосовал за безвиз для Украины</text>
+      <text>Экзотическая страна на Карибах отменила визы для украинцев</text>
+      <text>Канада отказала Украине в безвизе</text>
+      <text>Вырваться из города. Холодный Яр и окрестности</text>
+      <text>Чем заняться на горнолыжном курорте Славско весной и летом</text>
+      <text>Как быстро получить биометрический паспорт в Киеве. Личный опыт</text>
+      <text>Как оформить чеки Tax Free и получить возврат</text>
+      <text>10 причин поехать в Португалию</text>
+      <text>Земля тысячи пляжей</text>
+      <text>Албания - колыбель балканских гор</text>
+      <text>Где украинцам можно отдохнуть в сентябре</text>
+      <text>Вагон Сталина и новые древности Грузии</text>
+      <text>Почему в этом году выгоднее ехать на Шарм-эль-Шейх</text>
+      <text>Где-то есть в Украине поиск пакетных туров онлайн?</text>
+      <text>Португалия - сентябрь 2013 (что посмотреть?)</text>
+      <text>Экологические плакетки</text>
+      <text>Киев - София. Посоветуйте маршрут</text>
+      <text>Автопробег Киев-Будапешт-Вена-Киев (01.05.2010-09.05.2010)</text>
+      <text>Сколько стоит Польский автобан "Львов"-Краков-Катовице-"Брно"</text>
+      <text>Он-лайн ресурс МЗС для автопутешественников</text>
+      <text>Необновленный паспорт, Украина-Крым</text>
+      <text>Задай свой вопрос на форуме</text>
+    </page>
+    <page url="http://www.doroga.ua/Pages/AutoRace.aspx?AutoRaceID=5">
+      <photo>http://www.doroga.ua/Images/logo.png</photo>
+      <photo>http://www.doroga.ua/Images/Temp/SearchButton.jpg</photo>
+      <photo>http://www.doroga.ua/Images/ColoredLine.gif</photo>
+      <photo>http://www.doroga.ua/Images/TitleLogo.gif</photo>
+      <photo>http://www.doroga.ua/Images/Markers/MarkerRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ReportImageReportID=1071&amp;FileName=2618.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/AutoRaceImageHandler.ashx?AutoRacePhotoID=1357</photo>
+      <photo>http://www.doroga.ua/Handlers/AutoRaceImageHandler.ashx?AutoRacePhotoID=1356</photo>
+      <photo>http://www.doroga.ua/Handlers/AutoRaceImageHandler.ashx?AutoRacePhotoID=1355</photo>
+      <photo>http://www.doroga.ua/Handlers/AutoRaceImageHandler.ashx?AutoRacePhotoID=1354</photo>
+      <photo>http://www.doroga.ua/Handlers/AutoRaceImageHandler.ashx?AutoRacePhotoID=1353</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ReportImageReportID=1063&amp;FileName=1532.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ReportImageReportID=1056&amp;FileName=0355.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ReportImageReportID=1051&amp;FileName=9260.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ReportImageReportID=1050&amp;FileName=8446.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ReportImageReportID=1047&amp;FileName=_MG_7515.JPG</photo>
+      <photo>http://www.doroga.ua/Handlers/AutoRaceImageHandler.ashx?AutoRaceSponsorID=12&amp;FileName=logoSixt.bmp</photo>
+      <photo>http://www.doroga.ua/Handlers/AutoRaceImageHandler.ashx?AutoRaceSponsorID=13&amp;FileName=logoNavitel.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/AutoRaceImageHandler.ashx?AutoRaceInfotainmentID=14&amp;FileName=29.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/AutoRaceImageHandler.ashx?AutoRaceInfotainmentID=15&amp;FileName=segodnya-logo.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/AutoRaceImageHandler.ashx?AutoRaceInfotainmentID=16&amp;FileName=press_site_ukr2012.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/AutoRaceImageHandler.ashx?AutoRaceInfotainmentID=17&amp;FileName=02.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=344</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=284</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=276</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=178</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=386&amp;Filename=RB-Doroga.jpg</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=384&amp;Filename=pikt_dm_D.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/BannerObjectHandler.ashx?BannerID=742&amp;ContentType=image/gif</photo>
+      <photo>http://c.bigmir.net/?v16793771&amp;s16793771&amp;t3</photo>
+      <photo>http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif</photo>
+      <photo>http://www.doroga.ua/Images/Loading.gif</photo>
+      <photo>http://counter.rambler.ru/top100.cnt?1970450</photo>
+      <text>Автопробег Doroga.2012 финишировал на НСК "Олимпийском" в Киеве. Караван автомобилей участников пробега преодолел 2800 км по дорогам между принимающими городами Евро-2012, посетив в общей сложности 11 областных центров.</text>
+      <text>"Лыжный патруль" Doroga.UA финишировал в Черновцах. За 17 дней два экипажа патруля проинспектировали ровно 50 горнолыжных курортов и отдельных подъемников в украинских Карпатах.</text>
+      <text>Автопробег «По следам Антилопы-Гну» финишировал в славном городе Одессе.</text>
+      <text>Команда аквапатрульных проекта Doroga.UA посетила 9 открытых аквапарков Украины на Азовском море, в Крыму и на Северном Причерноморье.</text>
+      <text>&#13;
+</text>
+      <text>9 мая в 18:15 автопробег "Вокруг Украины" финишировал в Киеве на пл. Славы. Общий пробег составил 7548 км.</text>
+    </page>
+    <page url="http://www.doroga.ua/onlinebooking">
+      <photo>http://www.doroga.ua/Images/logo.png</photo>
+      <photo>http://www.doroga.ua/Images/Temp/SearchButton.jpg</photo>
+      <photo>http://www.doroga.ua/Images/ColoredLine.gif</photo>
+      <photo>http://www.doroga.ua/Images/OnlineBookingLogo.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?OnlineBookingServiceID=7</photo>
+      <photo>http://www.doroga.ua/Images/OnlineBookingLogo.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?OnlineBookingServiceID=2</photo>
+      <photo>http://www.doroga.ua/Images/OnlineBookingLogo.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?OnlineBookingServiceID=5</photo>
+      <photo>http://www.doroga.ua/Images/OnlineBookingLogo.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?OnlineBookingServiceID=1</photo>
+      <photo>http://www.doroga.ua/Images/OnlineBookingLogo.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?OnlineBookingServiceID=4</photo>
+      <photo>http://www.doroga.ua/Images/OnlineBookingLogo.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?OnlineBookingServiceID=6</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=386&amp;Filename=RB-Doroga.jpg</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=384&amp;Filename=pikt_dm_D.jpg</photo>
+      <photo>http://c.bigmir.net/?v16793771&amp;s16793771&amp;t3</photo>
+      <photo>http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif</photo>
+      <photo>http://www.doroga.ua/Images/Loading.gif</photo>
+      <photo>http://counter.rambler.ru/top100.cnt?1970450</photo>
+      <text>С помощью нашей системы онлайн бронирования гостиниц вы сможете выбрать самую выгодную цену на номер в понравившемся отеле. Мы работаем с ведущими мировыми компаниями онлайн бронирования: booking.com, expedia.com, hotels.com, venere.com и еще сотней других.</text>
+      <text>Наша работа - предоставить на ваш выбор больше вариантов и помочь сравнить цены в удобном интерфейсе. Онлайн бронирование производится на сайтах наших партнеров.</text>
+      <text>К сожалению, пока не все отели из Базы Doroga.UA сегодня можно забронировать онлайн. В некоторые Вам придется звонить самостоятельно:(</text>
+      <text>Гостиницы Украины бронировать онлайн</text>
+      <text>Все гостиницы Украины: контакты, отзывы, описания, цены</text>
+      <text>В Украине онлайн бронирование работает не совсем так, как во всем остальном мире.</text>
+      <text>1. Персонал ураинских отелей, как правило, не очень квалифицированн. Иногда девушки просто забывают отметить "ваш" номер как забронированный и продают его дважды. Поэтому, во избежание сюрпризов, рекомендуем вам сразу же дублировать ваше бронирование звонком&#13;
+ непосредственно в отель.</text>
+      <text>Это не относится к большим отелям в туристических центрах и сетевым гостиницам.</text>
+      <text>2. Системы онлайн бронирования (booking.com, expedia.com, hotels.com, venere.com и другие) никогда не блокируют деньги на вашей карточке и не списывают их. Все операции с вашей карточкой и вашими деньгами - обязанность и право гостиницы. Не звоните в систему&#13;
+ бронирования в случае проблем во взаиморасчетах с отелем - вам не помогут.</text>
+      <text>3. У подавляющего большинства украинских отелей нет технической возможности блокировать средства на вашей карточке или списывать их. Поэтому ваше подтверждение от системы бронирования - это просто бумажка, которая ничего не значит до тех пор, пока вы не&#13;
+ заплатили отелю.</text>
+      <text>4. Бронирование через большинство ведущих систем по умолчанию предполагает оплату на стойке гостиницы. Даже если Вы при бронировании ввели реквизиты своей платежной карты - это совершенно не значит, что Вы заплатили. Вы всего лишь обеспечили гарантию от&#13;
+ незаезда - и все равно на стойке Вас попросят расплатиться.</text>
+      <text> </text>
+    </page>
+    <page url="http://www.doroga.ua/Pages/Club.aspx">
+      <photo>http://www.doroga.ua/Images/logo.png</photo>
+      <photo>http://www.doroga.ua/Images/Temp/SearchButton.jpg</photo>
+      <photo>http://www.doroga.ua/Images/ColoredLine.gif</photo>
+      <photo>http://www.doroga.ua/Images/TitleLogo.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ReportImageReportID=1818&amp;FileName=DSC02520.JPG</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=384&amp;Filename=pikt_dm_D.jpg</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=386&amp;Filename=RB-Doroga.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/BannerObjectHandler.ashx?BannerID=742&amp;ContentType=image/gif</photo>
+      <photo>http://c.bigmir.net/?v16793771&amp;s16793771&amp;t3</photo>
+      <photo>http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif</photo>
+      <photo>http://www.doroga.ua/Images/Loading.gif</photo>
+      <photo>http://counter.rambler.ru/top100.cnt?1970450</photo>
+    </page>
+    <page url="http://www.doroga.ua/forum">
+      <photo>http://www.doroga.ua/Images/logo.png</photo>
+      <photo>http://www.doroga.ua/Images/Temp/SearchButton.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=384&amp;Filename=pikt_dm_D.jpg</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=386&amp;Filename=RB-Doroga.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/BannerObjectHandler.ashx?BannerID=742&amp;ContentType=image/gif</photo>
+      <photo>http://c.bigmir.net/?v16793771&amp;s16793771&amp;t3</photo>
+      <photo>http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif</photo>
+      <photo>http://www.doroga.ua/Images/Loading.gif</photo>
+      <photo>http://counter.rambler.ru/top100.cnt?1970450</photo>
+    </page>
+    <page url="http://www.doroga.ua/Pages/AboutProject.aspx">
+      <photo>http://www.doroga.ua/Images/logo.png</photo>
+      <photo>http://www.doroga.ua/Images/Temp/SearchButton.jpg</photo>
+      <photo>http://www.doroga.ua/Images/ColoredLine.gif</photo>
+      <photo>http://www.doroga.ua/Images/TitleLogo.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteMiddle.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteMiddle.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteMiddle.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteMiddle.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteMiddle.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteMiddle.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteMiddle.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteMiddle.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteMiddle.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteMiddle.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteMiddle.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteMiddle.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteMiddle.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteMiddle.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteMiddle.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteMiddle.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteMiddle.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteMiddle.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=384&amp;Filename=pikt_dm_D.jpg</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=386&amp;Filename=RB-Doroga.jpg</photo>
+      <photo>http://c.bigmir.net/?v16793771&amp;s16793771&amp;t3</photo>
+      <photo>http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif</photo>
+      <photo>http://www.doroga.ua/Images/Loading.gif</photo>
+      <photo>http://counter.rambler.ru/top100.cnt?1970450</photo>
+    </page>
+    <page url="http://www.doroga.ua/Pages/Map.aspx">
+      <photo>http://www.doroga.ua/Images/logo.png</photo>
+      <photo>http://www.doroga.ua/Images/Temp/SearchButton.jpg</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=529&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=542&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=334&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=376&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=192&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogHotelPhotoCatalogHotelID=2832&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogHotelPhotoCatalogHotelID=3734&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogHotelPhotoCatalogHotelID=1887&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogHotelPhotoCatalogHotelID=5766&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogHotelPhotoCatalogHotelID=3676&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogRestaurantPhotoCatalogRestaurantID=814&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogRestaurantPhotoCatalogRestaurantID=545&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogRestaurantPhotoCatalogRestaurantID=38&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogRestaurantPhotoCatalogRestaurantID=552&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogRestaurantPhotoCatalogRestaurantID=540&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=384&amp;Filename=pikt_dm_D.jpg</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=386&amp;Filename=RB-Doroga.jpg</photo>
+      <photo>http://c.bigmir.net/?v16793771&amp;s16793771&amp;t3</photo>
+      <photo>http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif</photo>
+      <photo>http://www.doroga.ua/Images/Loading.gif</photo>
+      <photo>http://counter.rambler.ru/top100.cnt?1970450</photo>
+    </page>
+    <page url="http://www.doroga.ua/marshruty">
+      <photo>http://www.doroga.ua/Images/logo.png</photo>
+      <photo>http://www.doroga.ua/Images/Temp/SearchButton.jpg</photo>
+      <photo>http://www.doroga.ua/Images/ColoredLine.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteID=1&amp;FileName=P1160354.JPG</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteID=1</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=1</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=2</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=3</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=4</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=6</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=7</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=8</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=14</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=15</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=16</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=12</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteID=2</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=13</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=17</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=18</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=19</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=20</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteID=3</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=21</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=22</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=23</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=24</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=25</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=26</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=27</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=28</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=30</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=31</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteID=4</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=32</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=33</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=34</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=35</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=36</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=37</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=38</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=39</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=40</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=41</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=42</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=43</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=44</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=45</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=46</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteID=5</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=47</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=48</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=49</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=50</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=51</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=52</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=53</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=58</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=54</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=59</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=60</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=61</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=62</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=55</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=56</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=57</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteID=6</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=63</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=64</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=65</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=66</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=67</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=68</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=69</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=70</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=71</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteID=7</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=72</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=73</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=74</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=75</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=76</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=77</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=78</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteID=8</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=79</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=80</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=81</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=82</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=83</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=84</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=85</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteID=9</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=86</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=87</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=88</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=89</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=90</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=91</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=92</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=93</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=94</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=95</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteID=10</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=96</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=97</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=98</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=99</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=100</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=101</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?TouristRouteExcursionPointID=102</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=384&amp;Filename=pikt_dm_D.jpg</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=386&amp;Filename=RB-Doroga.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/BannerObjectHandler.ashx?BannerID=742&amp;ContentType=image/gif</photo>
+      <photo>http://c.bigmir.net/?v16793771&amp;s16793771&amp;t3</photo>
+      <photo>http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif</photo>
+      <photo>http://www.doroga.ua/Images/Loading.gif</photo>
+      <photo>http://counter.rambler.ru/top100.cnt?1970450</photo>
+    </page>
+    <page url="http://www.doroga.ua/zagorodnyj-otdych">
+      <photo>http://www.doroga.ua/Images/logo.png</photo>
+      <photo>http://www.doroga.ua/Images/Temp/SearchButton.jpg</photo>
+      <photo>http://www.doroga.ua/Images/ColoredLine.gif</photo>
+      <photo>http://www.doroga.ua/Images/AddLocationButton.png</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogHotelPhotoCatalogHotelID=6976&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogRestaurantPhotoCatalogRestaurantID=4214&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogHotelPhotoCatalogHotelID=4162&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogOtherPhotoCatalogOtherID=32&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogRestaurantPhotoCatalogRestaurantID=388&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogHotelPhotoCatalogHotelID=2832&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogOtherPhotoCatalogOtherID=209&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogOtherPhotoCatalogOtherID=215&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogHotelPhotoCatalogHotelID=5861&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogHotelPhotoCatalogHotelID=5605&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/AddLocationButton.png</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=384&amp;Filename=pikt_dm_D.jpg</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=386&amp;Filename=RB-Doroga.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/BannerObjectHandler.ashx?BannerID=742&amp;ContentType=image/gif</photo>
+      <photo>http://c.bigmir.net/?v16793771&amp;s16793771&amp;t3</photo>
+      <photo>http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif</photo>
+      <photo>http://www.doroga.ua/Images/Loading.gif</photo>
+      <photo>http://counter.rambler.ru/top100.cnt?1970450</photo>
+    </page>
+    <page url="http://www.doroga.ua/SkiingResorts">
+      <photo>http://www.doroga.ua/Images/logo.png</photo>
+      <photo>http://www.doroga.ua/Images/Temp/SearchButton.jpg</photo>
+      <photo>http://www.doroga.ua/Images/ColoredLine.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?skiingResortAutoRaceReportLinkLogoSkiingResortID=2&amp;FileName=C__Users_na_Documents_sponsors.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?skiingResortAutoRaceReportLinkLogoSkiingResortID=1&amp;FileName=C__Users_na_Documents_sponsors.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?skiingResortAutoRaceReportLinkLogoSkiingResortID=10&amp;FileName=C__Users_na_Documents_sponsors.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?skiingResortAutoRaceReportLinkLogoSkiingResortID=52&amp;FileName=sponsors.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?skiingResortAutoRaceReportLinkLogoSkiingResortID=3&amp;FileName=sponsors.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?skiingResortAutoRaceReportLinkLogoSkiingResortID=31&amp;FileName=C__Users_na_Documents_sponsors.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?skiingResortAutoRaceReportLinkLogoSkiingResortID=6&amp;FileName=C__Users_na_Documents_sponsors.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?skiingResortAutoRaceReportLinkLogoSkiingResortID=22&amp;FileName=22__.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?skiingResortAutoRaceReportLinkLogoSkiingResortID=37&amp;FileName=</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?skiingResortAutoRaceReportLinkLogoSkiingResortID=9&amp;FileName=C__Users_na_Documents_sponsors.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=155</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=1192</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=2352</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=4129</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=386&amp;Filename=RB-Doroga.jpg</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=384&amp;Filename=pikt_dm_D.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/BannerObjectHandler.ashx?BannerID=742&amp;ContentType=image/gif</photo>
+      <photo>http://c.bigmir.net/?v16793771&amp;s16793771&amp;t3</photo>
+      <photo>http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif</photo>
+      <photo>http://www.doroga.ua/Images/Loading.gif</photo>
+      <photo>http://counter.rambler.ru/top100.cnt?1970450</photo>
+    </page>
+    <page url="http://www.doroga.ua/Pages/Search.aspx">
+      <photo>http://www.doroga.ua/Images/logo.png</photo>
+      <photo>http://www.doroga.ua/Images/Temp/SearchButton.jpg</photo>
+      <photo>http://www.doroga.ua/Images/ColoredLine.gif</photo>
+      <photo>http://www.doroga.ua/Images/TitleLogo.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=386&amp;Filename=RB-Doroga.jpg</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=384&amp;Filename=pikt_dm_D.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/BannerObjectHandler.ashx?BannerID=742&amp;ContentType=image/gif</photo>
+      <photo>http://c.bigmir.net/?v16793771&amp;s16793771&amp;t3</photo>
+      <photo>http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif</photo>
+      <photo>http://www.doroga.ua/Images/Loading.gif</photo>
+      <photo>http://counter.rambler.ru/top100.cnt?1970450</photo>
+    </page>
+    <page url="http://www.doroga.ua/Pages/Login.aspx?ReturnUrl=/">
+      <photo>http://www.doroga.ua/Images/logo.png</photo>
+      <photo>http://www.doroga.ua/Images/Temp/SearchButton.jpg</photo>
+      <photo>http://www.doroga.ua/Images/ColoredLine.gif</photo>
+      <photo>http://www.doroga.ua/Images/TitleLogo.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=384&amp;Filename=pikt_dm_D.jpg</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=386&amp;Filename=RB-Doroga.jpg</photo>
+      <photo>http://c.bigmir.net/?v16793771&amp;s16793771&amp;t3</photo>
+      <photo>http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif</photo>
+      <photo>http://www.doroga.ua/Images/Loading.gif</photo>
+      <photo>http://counter.rambler.ru/top100.cnt?1970450</photo>
+    </page>
+    <page url="http://www.doroga.ua/Pages/Registration.aspx">
+      <photo>http://www.doroga.ua/Images/logo.png</photo>
+      <photo>http://www.doroga.ua/Images/Temp/SearchButton.jpg</photo>
+      <photo>http://www.doroga.ua/Images/ColoredLine.gif</photo>
+      <photo>http://www.doroga.ua/Images/TitleLogo.gif</photo>
+      <photo>../Images/Male80x100.gif</photo>
+      <photo>http://www.doroga.ua/Images/ButtonClose.png</photo>
+      <photo>http://c.bigmir.net/?v16793771&amp;s16793771&amp;t3</photo>
+      <photo>http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif</photo>
+      <photo>http://www.doroga.ua/Images/Loading.gif</photo>
+      <photo>http://counter.rambler.ru/top100.cnt?1970450</photo>
+    </page>
+    <page url="http://www.doroga.ua/Pages/Map.aspx">
+      <photo>http://www.doroga.ua/Images/logo.png</photo>
+      <photo>http://www.doroga.ua/Images/Temp/SearchButton.jpg</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=529&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=542&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=334&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=376&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=192&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogHotelPhotoCatalogHotelID=2832&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogHotelPhotoCatalogHotelID=3734&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogHotelPhotoCatalogHotelID=1887&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogHotelPhotoCatalogHotelID=5766&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogHotelPhotoCatalogHotelID=3676&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogRestaurantPhotoCatalogRestaurantID=814&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogRestaurantPhotoCatalogRestaurantID=545&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogRestaurantPhotoCatalogRestaurantID=38&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogRestaurantPhotoCatalogRestaurantID=552&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconRouteSmall.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogRestaurantPhotoCatalogRestaurantID=540&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Images/IconPriceRateSmall.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=386&amp;Filename=RB-Doroga.jpg</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=384&amp;Filename=pikt_dm_D.jpg</photo>
+      <photo>http://c.bigmir.net/?v16793771&amp;s16793771&amp;t3</photo>
+      <photo>http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif</photo>
+      <photo>http://www.doroga.ua/Images/Loading.gif</photo>
+      <photo>http://counter.rambler.ru/top100.cnt?1970450</photo>
+    </page>
+    <page url="http://www.doroga.ua/pois">
+      <photo>http://www.doroga.ua/Images/logo.png</photo>
+      <photo>http://www.doroga.ua/Images/Temp/SearchButton.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=529&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=542&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=334&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=376&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=192&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=328&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=288&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=312&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=318&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=837&amp;Size=Small</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Images/ProgressBar.png</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=384&amp;Filename=pikt_dm_D.jpg</photo>
+      <photo>http://www.doroga.ua/Images/Blank.gif</photo>
+      <photo>http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ShopItemID=386&amp;Filename=RB-Doroga.jpg</photo>
+      <photo>http://www.doroga.ua/Handlers/BannerObjectHandler.ashx?BannerID=742&amp;ContentType=image/gif</photo>
+      <photo>http://c.bigmir.net/?v16793771&amp;s16793771&amp;t3</photo>
+      <photo>http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif</photo>
+      <photo>http://www.doroga.ua/Images/Loading.gif</photo>
+      <photo>http://counter.rambler.ru/top100.cnt?1970450</photo>
+    </page>
+  </data>
+</root>
