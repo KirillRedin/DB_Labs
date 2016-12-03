@@ -1,0 +1,45 @@
+{% extends 'lab2/base.html' %}
+{% load filter %}
+{% block content %}
+<div class="container">
+    <h2>Edit flight</h2>
+    <form action={{ request.get_full_path }} method="POST" class="form-vertical" role="form">{% csrf_token %}
+        <div class="form-group" >
+            <label for="newplaneid" style="font-size: 18px; margin-top: 4px">Name:</label>
+            <select id="newplaneid" name="newplane" style="width: 200px;height: 30px; border-radius: 5px">
+                {%  for plane in planes %}
+                <option value="{{ plane|underscore:'_id' }}" {% if flight.Planes|underscore:'_id' == plane|underscore:'_id' %}
+                selected="selected" {%endif %}>{{plane.Name}}</option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="newcompanyid" style="font-size: 18px; margin-top: 6px">Company</label>
+            <select id="newcompanyid" name="newcompany" style="width: 200px;height: 30px; border-radius: 5px">
+                {%  for company in companies %}
+                <option value="{{ company|underscore:'_id' }}" {% if flight.Companies|underscore:'_id' == company|underscore:'_id' %}
+                selected="selected" {%endif %}>{{company.Name}}</option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="newtrackid" style="font-size: 18px; margin-top: 6px">Track</label>
+            <select id="newtrackid" name="newtrack" style="width: 200px;height: 30px; border-radius: 5px">
+                {%  for track in tracks %}
+                <option value="{{ track|underscore:'_id' }}" {% if flight.Tracks|underscore:'_id' == track|underscore:'_id' %}
+                selected="selected" {%endif %}>{{track.Departure}}-{{ track.Destination }}</option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="newpriceid" style="font-size: 18px; margin-top: 6px">Price:</label>
+            <input value="{{flight.Price}}" type="number" name="newprice" id="newpriceid" style="width: 200px;height: 30px; border-radius: 5px">
+        </div>
+
+        <button type="submit" class="btn btn-default">Save to database</button>
+    </form>
+</div>
+{% endblock %}

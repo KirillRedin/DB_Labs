@@ -1,0 +1,48 @@
+{% extends 'lab2/base.html' %}
+{% block content %}
+{% load filter %}
+<div class="row">
+    <table class="table table-hover table-bordered table-responsive">
+        <h2>Flights</h2>
+        <thead>
+            <th>Plane name </th>
+            <th>Company name </th>
+            <th>Departure </th>
+            <th>Destination </th>
+            <th>Price </th>
+        </thead>
+        <tbody>
+            {%  for flight in flights %}
+                <tr>
+                    <td> {{ flight.Planes.Name }} </td>
+                    <td> {{ flight.Companies.Name }} </td>
+                    <td> {{ flight.Tracks.Departure }} </td>
+                    <td> {{ flight.Tracks.Destination }} </td>
+                    <td> {{ flight.Price}} </td>
+                    <td><a href="/lab2/delete/{{ flight|underscore:'_id' }}">
+                        <button>Delete</button>
+                    </a></td>
+                    <td><a href="/lab2/edit/{{ flight|underscore:'_id' }}">
+                        <button>Edit</button>
+                    </a></td>
+                </tr>
+            {% endfor %}
+        </tbody>
+      </table>
+    <div class="pagination">
+        <span class="step-links">
+            {% if flights.has_previous %}
+                <a href="?page={{ flights.previous_page_number }}">Previous</a>
+            {% endif %}
+
+            <span class="current">
+                Page {{ flights.number }} of {{ flights.paginator.num_pages }}.
+            </span>
+
+            {% if flights.has_next %}
+            <a href="?page={{ flights.next_page_number }}">Next</a>
+            {% endif %}
+        </span>
+    </div>
+</div>
+{% endblock %}
