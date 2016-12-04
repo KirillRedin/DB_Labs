@@ -1,0 +1,71 @@
+{% extends 'lab2/base.html' %}
+{% block content %}
+{% load filter %}
+<div class="row">
+    <table class="table table-hover table-bordered table-responsive">
+        <form action="{{ request.get_full_path }}">
+        <h2>Search</h2>
+            <div class="form-group">
+                <label for="companyid" style="font-size: 18px; margin-top: 6px">Choose Company:</label>
+                <select id="companyid" name="company_id" style="width: 200px;height: 30px; border-radius: 5px">
+                    {%  for company in companies%}
+                    <option value="{{ company|underscore:'_id' }}"
+                    {% if searched_company == company.Name %}
+                    selected="selected"
+                    {% endif %}>{{company.Name}}</option>
+                    {% endfor %}
+                </select>
+                <button type="submit">Search</button>
+            </div>
+        </form>
+        {% if time %}
+            <div>
+                <br>{{ results }} {{ searched_company }} flights were found {{ cache }}
+                <br> Estimated time: {{ time }} sec
+            </div>
+        {% endif %}
+
+
+        <h2>Flights</h2>
+        <thead>
+            <th>Plane name </th>
+            <th>Company name </th>
+            <th>Departure </th>
+            <th>Destination </th>
+            <th>Price </th>
+        </thead>
+        <tbody>
+            {%  for flight in flights %}
+                <tr>
+                    <td> {{ flight.Planes.Name }} </td>
+                    <td> {{ flight.Companies.Name }} </td>
+                    <td> {{ flight.Tracks.Departure }} </td>
+                    <td> {{ flight.Tracks.Destination }} </td>
+                    <td> {{ flight.Price}} </td>
+                    <td><a href="/lab2/delete/{{ flight|underscore:'_id' }}">
+                        <button>Delete</button>
+                    </a></td>
+                    <td><a href="/lab2/edit/{{ flight|underscore:'_id' }}">
+                        <button>Edit</button>
+                    </a></td>
+                </tr>
+            {% endfor %}
+        </tbody>
+      </table>
+    <div class="pagination">
+        <span class="step-links">
+            {% if flights.has_previous %}
+                <a href="?page={{ flights.previous_page_number }}">Previous</a>
+            {% endif %}
+
+            <span class="current">
+                Page {{ flights.number }} of {{ flights.paginator.num_pages }}.
+            </span>
+
+            {% if flights.has_next %}
+            <a href="?page={{ flights.next_page_number }}">Next</a>
+            {% endif %}
+        </span>
+    </div>
+</div>
+{% endblock %}
